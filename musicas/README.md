@@ -8,10 +8,10 @@ Foi desenvolvida uma API de músicas com CRUD completo e o primeiro projeto inte
 
 
 ## Executar
-$ git clone https://github.com/emillysandy/s13-API-MongoDB
-$ cd s13-API-MongoDB
-$ npm install
-$ npm start
+ git clone https://github.com/emillysandy/s13-API-MongoDB
+ cd s13-API-MongoDB
+ npm install
+ npm start
 
 ## Rotas / Demanda de negócio
 * GET (Listar todas as músicas)
